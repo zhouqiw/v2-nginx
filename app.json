@@ -1,17 +1,17 @@
 ﻿{
-  "name": "Heroku-v2ray",
-  "description": "将v2ray部署在Heroku上",
+  "name": "haha",
+  "description": "dongxi",
   "keywords": [
     "v2ray VMess VLESS"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
+      "description": "vmess",
       "value": "vmess",
       "required": true
     },
     "UUID": {
-      "description": "用户的主ID",
+      "description": "7127b4dc-cf48-42c9-913e-80303559935b",
       "value": "",
       "required": false
     },
